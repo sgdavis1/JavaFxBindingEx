@@ -18,6 +18,13 @@ model, and vice-versa.  One line of code, that's it.
 
 Take a look! It is a really simple project but that is the point, right?
 
+
+If you'd like to demo this project without building it, just run the jarfile:
+```
+  > java -jar packages/binding-ex.jar
+```
+This should run on >=Java7u6.
+
 *NOTE:*
 I included my intelliJ-14 project files if you'd like to open it in that IDE. If anyone asks I'll output the Eclipse
 project files too.
